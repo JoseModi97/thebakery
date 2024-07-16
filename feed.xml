@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://thebakery.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thebakery.dev/" rel="alternate" type="text/html" /><updated>2024-07-16T13:12:04+01:00</updated><id>https://thebakery.dev/feed.xml</id><title type="html">The Developers’ Bakery</title><subtitle>A podcast about Developer Tools and productivity, freshly baked to you by Nicola Corti.</subtitle><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><entry><title type="html">#85 - Kotlin Multiplatform at Google I/O with Marcello Galhardo</title><link href="https://thebakery.dev/85/" rel="alternate" type="text/html" title="#85 - Kotlin Multiplatform at Google I/O with Marcello Galhardo" /><published>2024-07-10T00:00:00+01:00</published><updated>2024-07-10T00:00:00+01:00</updated><id>https://thebakery.dev/085-kotlin-multiplatform-at-google-io</id><content type="html" xml:base="https://thebakery.dev/85/"><![CDATA[<iframe src="https://open.spotify.com/embed-podcast/show/4jV6Yoz7D38sZJlYMzJm3k" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<p><img src="/assets/images/posts/ioconnect24.jpg" alt="io connect photo" /></p>
+
+<p>Welcome to a special <strong>in-person episode</strong> of The Developers’ Bakery, recorded live in <strong>Berlin</strong> at Google I/O Connect 2024!</p>
+
+<p>There, I had the privilege of having on stage <a href="https://twitter.com/marcellogalhard"><strong>Marcello Galhardo</strong></a>, Software Engineer at Google. Marcello is working in the AndroidX team responsible for adding Kotlin Multiplatform support for several popular AndroidX libraries.</p>
+
+<p>If you’re an Android Developer, you probably used one of those libraries in your projects, such as Lifecycle or Room. Marcello is going to walk us through the latest announcements about Kotlin Multiplatform at Google I/O, and how they’re going to impact the way we build Android apps.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.50</strong> Episode Start</li>
+  <li><strong>01.37</strong> Marcelo’s Introduction</li>
+  <li><strong>02.18</strong> What is Kotlin Multiplatform?</li>
+  <li><strong>03.11</strong> KMP @ Google IO</li>
+  <li><strong>04.00</strong> KMP announcement excitement</li>
+  <li><strong>05.32</strong> Convince us to use KMP for a new app</li>
+  <li><strong>07.20</strong> KMP support in AndroidX libraries</li>
+  <li><strong>08.29</strong> Migrating from Android to KMP</li>
+  <li><strong>09.02</strong> Which library has you contributed to?</li>
+  <li><strong>09.27</strong> Which library was the hardest to KMP migrate?</li>
+  <li><strong>10.28</strong> How many developers are involved in KMP compatibility?</li>
+  <li><strong>11.28</strong> alpha and versioning for AndroidX libraries</li>
+  <li><strong>12.57</strong> Where is the AndroidX source code?</li>
+  <li><strong>13.42</strong> KMP compatible vs KMP supported</li>
+  <li><strong>15.19</strong> Google’s stance on cross-platform</li>
+  <li><strong>16.59</strong> How is Google is using KMP?</li>
+  <li><strong>17.53</strong> Marcello’s journey</li>
+  <li><strong>18.19</strong> Foldable devices and large screens</li>
+  <li><strong>20.17</strong> Which IDE to use for KMP?</li>
+  <li><strong>22.25</strong> AI and KMP</li>
+  <li><strong>25.49</strong> Further reading</li>
+  <li><strong>26.42</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://developer.android.com/kotlin/multiplatform">Kotlin Multiplafrom Mobile Overview</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fas fa-link"></i> <a href="https://android-developers.googleblog.com/2024/05/android-support-for-kotlin-multiplatform-to-share-business-logic-across-mobile-web-server-desktop.html">Android Support for KMP Announcement</a></li>
+      <li><i class="fas fa-link"></i> <a href="https://developers.googleblog.com/en/making-development-across-platforms-easier-for-developers/">Making development across platforms easier for developers</a></li>
+      <li><i class="fab fa-youtube"></i> Kotlin Multiplatform in Google Workspace by Jason Parachoniak - <a href="https://kotlinconf.com/talks/581520/">Video from KotlinConf</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/marcellogalhardo">@marcellogalhardo on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/marcellogalhard">@marcellogalhard on Twitter</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://marcellogalhardo.dev/">Marcello’s Website</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Amazing announcements about Kotlin Multiplatform at Google I/O 2024]]></summary></entry><entry><title type="html">#84 - System Initiative with Adam Jacob</title><link href="https://thebakery.dev/84/" rel="alternate" type="text/html" title="#84 - System Initiative with Adam Jacob" /><published>2024-06-26T00:00:00+01:00</published><updated>2024-06-26T00:00:00+01:00</updated><id>https://thebakery.dev/084-system-initiative</id><content type="html" xml:base="https://thebakery.dev/84/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1cudmXVt5yXItF1YNbG2zQ?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Today we talk about a completely new topic: DevOps and System configuration. I’m really excited to have on stage <a href="https://twitter.com/adamhjk"><strong>Adam Jacob</strong></a>, CEO and Co-founder of <a href="https://www.systeminit.com/"><strong>System Initiative</strong></a>.</p>
+
+<p>Adam is challenging the status quo of DevOps tools with a completely <strong>new approach</strong> to system configuration. While System initiative looks like a no-code tool at first, it comes with all the power of TypeScript to let you build and manage your infrastructure in a completely new way.</p>
+
+<p>We will talk about the history of System Initiative, the challenges of building a new tool in a crowded space, and the future of DevOps.</p>
+
+<p>Adam is also the co-founder of <a href="https://github.com/chef/chef">Chef</a>, a really popular configuration management tool, and he will share with us some of the lessons learned from that previous experience.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.46</strong> Episode Start</li>
+  <li><strong>01.03</strong> Adam’s Introduction</li>
+  <li><strong>03.19</strong> What is a System Initiative?</li>
+  <li><strong>07.54</strong> What are the System Initiative feature?</li>
+  <li><strong>11.16</strong> Is this a drag-n-drop tool to create AWS infras?</li>
+  <li><strong>14.37</strong> No-code tools &amp; quality of their output</li>
+  <li><strong>20.12</strong> Frontend engineers doing DevOps?</li>
+  <li><strong>23.06</strong> How is System Initiative doing Open Source?</li>
+  <li><strong>25.18</strong> The history of System Initiative</li>
+  <li><strong>34.10</strong> From demo to production</li>
+  <li><strong>36.13</strong> AI &amp; DevOps</li>
+  <li><strong>39.18</strong> What you learned from building Chef?</li>
+  <li><strong>43.51</strong> Further reading</li>
+  <li><strong>45.06</strong> Where people can find you online?</li>
+  <li><strong>46.07</strong> Sysadmin in disguise</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/systeminit/si">systeminit/si on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://www.systeminit.com/">System Initiative Official Website</a></li>
+  <li><i class="fab fa-discord"></i> <a href="https://discord.gg/system-init">System Initiative Discord server</a></li>
+  <li><i class="fab fa-youtube"></i> Talk at Config Mgmt Camp 2023 - <a href="https://youtu.be/a2RoLFzrFG0">What if Infrastructure as Code never existed</a></li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/adamhjk">@adamhjk on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/adamhjk">@adamhjk on Twitter</a></li>
+  <li><i class="fab fa-mastodon"></i> <a href="https://hachyderm.io/@adamhjk">@adamhjk on Mastodon</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Next-gen DevOps with Adam Jacob and System Initiative]]></summary></entry><entry><title type="html">#83 - Hasura with Tanmai Gopal</title><link href="https://thebakery.dev/83/" rel="alternate" type="text/html" title="#83 - Hasura with Tanmai Gopal" /><published>2024-06-11T00:00:00+01:00</published><updated>2024-06-11T00:00:00+01:00</updated><id>https://thebakery.dev/083-hasura</id><content type="html" xml:base="https://thebakery.dev/83/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4LrLCO4TvJdPTadtsjiWSY?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Hi everyone, today is time to talk about <strong>GraphQL</strong>! We have on stage <a href="https://twitter.com/tanmaigo"><strong>Tanmai Gopal</strong></a>, CEO and co-founder of <a href="https://hasura.io/"><strong>Hasura</strong></a>.</p>
+
+<p>Hasura is an open-source GraphQL engine that helps you build and scale your GraphQL APIs, basically ‘without’ limits! We’ll talk about the history of Hasura, how it works, and what’s next for this project. Join us in this episode as Tanmai will tell us his story founding Hasura and how they’re building a vibrant ecosystem around this project.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.46</strong> Episode Start</li>
+  <li><strong>01.09</strong> Tanmai’s Introduction</li>
+  <li><strong>02.04</strong> What is a Hasura?</li>
+  <li><strong>04.12</strong> Exposing DBs via GraphQL</li>
+  <li><strong>07.41</strong> Self-hosting Hasura</li>
+  <li><strong>13.00</strong> Subscriptions in Hasura</li>
+  <li><strong>16.07</strong> Hasura Supergraph</li>
+  <li><strong>21.15</strong> Single Point of Failure</li>
+  <li><strong>23.51</strong> The history of Hasura</li>
+  <li><strong>33.12</strong> Founding Hasura</li>
+  <li><strong>35.22</strong> Haskell in the backend</li>
+  <li><strong>40.12</strong> Doing Open Source at Hasura</li>
+  <li><strong>43.50</strong> What’s next for Hasura?</li>
+  <li><strong>50.27</strong> Further reading</li>
+  <li><strong>52.47</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/hasura/graphql-engine">hasura/graphql-engine on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://hasura.io/">Hasura Official Website</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fas fa-link"></i> <a href="https://hasura.io/docs/latest/getting-started/overview/">Getting Started with Hasura</a></li>
+      <li><i class="fab fa-discord"></i> <a href="https://discord.com/invite/hasura">Hasura Discord server</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/coco98">@coco98 on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/tanmaigo">@tanmaigo on Twitter</a></li>
+  <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/tanmaig/">Tanmai Gopal on Linkedin</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Build and scale your GraphQL APIs with Hasura and Tanmai Gopal]]></summary></entry><entry><title type="html">#82 - Mautic with Ruth Cheesley</title><link href="https://thebakery.dev/82/" rel="alternate" type="text/html" title="#82 - Mautic with Ruth Cheesley" /><published>2024-05-29T00:00:00+01:00</published><updated>2024-05-29T00:00:00+01:00</updated><id>https://thebakery.dev/082-mautic</id><content type="html" xml:base="https://thebakery.dev/82/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0mXPW9UMPEv5ZCnzD0faF3?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Time for a brand-new topic today, as we’re going to talk about <strong>Marketing Automation</strong>.</p>
+
+<p>I’m excited to have on stage <a href="https://twitter.com/RCheesley"><strong>Ruth Cheesley</strong></a>, who’s going to tell us all about <a href="https://www.mautic.org/"><strong>Mautic</strong></a>. Mautic is a marketing automation software, that helps you manage your email campaigns, track your user engagement, and much more. It’s fully open-source (written in PHP 🐘) and works either as self-hosted or as a cloud solution.</p>
+
+<p>But we’re also going to talk about another crucial topic in open-source: <strong>governance models</strong>. Ruth has been supporting the Mautic community for years, and helped them navigate through a governance model change. She’s going to share what worked and what not for Mautic and give us some tips on how to manage a community project.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.46</strong> Episode Start</li>
+  <li><strong>01.14</strong> Ruth’s Introduction</li>
+  <li><strong>03.08</strong> What is a Mautic?</li>
+  <li><strong>04.27</strong> Mautic competitors</li>
+  <li><strong>05.29</strong> Self-hosting Mautic</li>
+  <li><strong>07.22</strong> The open-source and business model</li>
+  <li><strong>10.02</strong> Who’s working full-time for Mautic?</li>
+  <li><strong>11.35</strong> The history of Mautic</li>
+  <li><strong>14.01</strong> Tech Stack</li>
+  <li><strong>15.23</strong> How Ruth got involved in this project?</li>
+  <li><strong>19.09</strong> Collecting metrics about Mautic</li>
+  <li><strong>21.29</strong> Mautic on mobile</li>
+  <li><strong>22.13</strong> Growing a community</li>
+  <li><strong>25.58</strong> Testing at Mautic</li>
+  <li><strong>28.00</strong> Using Gitpod to help contributions</li>
+  <li><strong>29.22</strong> Governance models</li>
+  <li><strong>39.20</strong> Voting in the open</li>
+  <li><strong>43.56</strong> Who can vote?</li>
+  <li><strong>45.08</strong> Ruth’s suggestions on doing governance</li>
+  <li><strong>48.36</strong> Code of conducts</li>
+  <li><strong>49.47</strong> Woman in Open Source</li>
+  <li><strong>52.04</strong> Further reading</li>
+  <li><strong>54.30</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/mautic/mautic">mautic/mautic on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://www.mautic.org/">Mautic Official Website</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=lgaqS0pmUzk">Mautic on YouTube</a></li>
+      <li><i class="fas fa-link"></i> <a href="https://kb.mautic.org/article/lead-scoring-best-practices-with-mautic.html">Lead Scoring Best Practices with Mautic</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/RCheesley">@RCheesley on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/RCheesley">@RCheesley on Twitter</a></li>
+  <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/ruthcheesley/">Ruth Cheesley on LinkedIn</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://www.ruthcheesley.co.uk/">Ruth’s Website</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Marketing Automation with Mautic and Ruth Cheesley]]></summary></entry><entry><title type="html">#81 - Fleet with Zach Wasserman</title><link href="https://thebakery.dev/81/" rel="alternate" type="text/html" title="#81 - Fleet with Zach Wasserman" /><published>2024-05-08T00:00:00+01:00</published><updated>2024-05-08T00:00:00+01:00</updated><id>https://thebakery.dev/081-fleet</id><content type="html" xml:base="https://thebakery.dev/81/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3zBGfPXMHSF6DzrTfN47rM?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Today we touch on a brand-new topic: device management! I’m excited to have on stage <a href="https://twitter.com/thezachw"><strong>Zach Wasserman</strong></a>, co-founder and CTO at <a href="https://github.com/fleetdm/fleet"><strong>Fleet</strong></a>.</p>
+
+<p>Fleet is a Mobile device management (MDM) software, that helps you manage your device fleet. It’s fully open-source and works either as self-hosted or as a cloud solution. Zach is going to guide us through the world of fleet management, talking about challenges such as managing vulnerabilities and updating devices.</p>
+
+<p>If you ever worked with a managed device, you’ll be amazed to learn some of the secrets from the device management world!</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.45</strong> Episode Start</li>
+  <li><strong>01.14</strong> Zac’s Introduction</li>
+  <li><strong>02.04</strong> What is a Fleet?</li>
+  <li><strong>05.57</strong> Fleet vs other MDM tools</li>
+  <li><strong>08.08</strong> Fleet vs chef</li>
+  <li><strong>10.40</strong> Challenges in building MDM software</li>
+  <li><strong>12.21</strong> The journey of a new device</li>
+  <li><strong>15.53</strong> Updating OS version</li>
+  <li><strong>17.50</strong> Integrating with user’s calendar</li>
+  <li><strong>18.55</strong> Incident Stories</li>
+  <li><strong>21.17</strong> Who’s using Fleet?</li>
+  <li><strong>23.15</strong> Self-hosting vs cloud</li>
+  <li><strong>24.14</strong> Handling malwares</li>
+  <li><strong>26.25</strong> The history of Fleet</li>
+  <li><strong>30.12</strong> Introducing osquery</li>
+  <li><strong>31.48</strong> Being part of the Linux Foundation</li>
+  <li><strong>34.56</strong> Being part of a steering commitee of a an OSS project</li>
+  <li><strong>37.04</strong> What’s next for Fleet?</li>
+  <li><strong>39.17</strong> Provisioning Vision Pros</li>
+  <li><strong>40.03</strong> Integrating AI?</li>
+  <li><strong>41.12</strong> Further reading</li>
+  <li><strong>42.46</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/fleetdm/fleet">fleetdm/fleet on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://fleetdm.com/">Fleet Official Website</a></li>
+  <li><i class="fab fa-youtube"></i> Open Source GitOps for Detection Engineering - <a href="https://youtu.be/TH8PxsNzuJw">Video from BSides Las Vegas 2023</a></li>
+  <li><i class="fab fa-youtube"></i> Collect First, Ask Questions Later - <a href="https://youtu.be/srprZ2NgRgk">Video from GopherCon 2022</a></li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/zwass">@zwass on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thezachw">@thezachw on Twitter</a></li>
+  <li><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/zacharywasserman/">Zach Wasserman on LinkedIn</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Discovering the world of device management, with Fleet and Zach Wasserman.]]></summary></entry><entry><title type="html">#80 - OpenCollective with Xavier Damman</title><link href="https://thebakery.dev/80/" rel="alternate" type="text/html" title="#80 - OpenCollective with Xavier Damman" /><published>2024-04-16T00:00:00+01:00</published><updated>2024-04-16T00:00:00+01:00</updated><id>https://thebakery.dev/080-opencollective</id><content type="html" xml:base="https://thebakery.dev/80/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3C1FtQVZQoqc4qB6kW9JtM?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>It’s time for another bonus episode of The Developers’ Bakery! 🎉</p>
+
+<p>Today, I’m extremely excited to have on stage <a href="https://twitter.com/xdamman"><strong>Xavier Damman</strong></a>, co-founder of <a href="https://opencollective.com/"><strong>OpenCollective</strong></a>!</p>
+
+<p>If you’ve been doing open source for a while, you’ve probably heard about OpenCollective. It’s a platform that helps open-source projects and communities to raise funds and manage their finances transparently. But OpenCollective is much more than just a way to support open-source projects, as you can support and fund all sorts of community initiatives.</p>
+
+<p>In this episode we’ll talk about the story of OpenCollective, how it all started, and how it grew to become the platform we all know today. We’ll also discuss the challenges of running a platform like OpenCollective, the future of open-source funding, and much more!</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.45</strong> Episode Start</li>
+  <li><strong>01.34</strong> Xavier’s Introduction</li>
+  <li><strong>05.08</strong> What is a Open Collective?</li>
+  <li><strong>09.41</strong> Xav’s role in OpenCollective today</li>
+  <li><strong>11.49</strong> What is a Fiscal Host?</li>
+  <li><strong>15.44</strong> It’s all about transparency</li>
+  <li><strong>18.15</strong> The challenges of kicking off OpenCollective</li>
+  <li><strong>22.12</strong> Fees and running the platform</li>
+  <li><strong>23.46</strong> How many donations has OpenCollective processed?</li>
+  <li><strong>26.02</strong> GitHub Sponsors vs OpenCollective</li>
+  <li><strong>27.35</strong> Is OSS sponsorship broken?</li>
+  <li><strong>35.33</strong> DAOs</li>
+  <li><strong>37.58</strong> The new economic model</li>
+  <li><strong>42.07</strong> Further reading</li>
+  <li><strong>45.18</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/opencollective/opencollective">opencollective/opencollective on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://opencollective.com">OpenCollective Official Website</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fas fa-link"></i> <a href="https://discover.opencollective.com">discover.opencollective.com</a></li>
+      <li><i class="fas fa-link"></i> <a href="https://www.regensunite.earth/">Regens Unite</a></li>
+      <li><i class="fas fa-link"></i> <a href="https://citizenspring.earth/">Citizen Spring</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/xdamman">@xdamman on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/xdamman">@xdamman on Twitter</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://xavier.brussels/">Xavier’s Website</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[The story of how donations started flowing through OpenCollective, with Xavier Damman.]]></summary></entry><entry><title type="html">#79 - Aptabase with Guilherme Oenning</title><link href="https://thebakery.dev/79/" rel="alternate" type="text/html" title="#79 - Aptabase with Guilherme Oenning" /><published>2024-04-02T00:00:00+01:00</published><updated>2024-04-02T00:00:00+01:00</updated><id>https://thebakery.dev/079-aptabase</id><content type="html" xml:base="https://thebakery.dev/79/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5esjFlNpbx2gDK8y8o4D17?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>I’m excited to welcome on stage our next guest <a href="https://twitter.com/goenning"><strong>Guilherme Oenning</strong></a>, creator of <a href="https://aptabase.com/"><strong>Aptabase</strong></a>!</p>
+
+<p><a href="https://aptabase.com/"><strong>Aptabase</strong></a> is an open-source tool to collect and analyze analytics from your users. The key feature is that it’s designed with privacy in mind, as all the events are stored anonymously. It’s fully GDPR-compliant and it’s available either as a cloud service or as a self-hosted solution.</p>
+
+<p>Join us in this episode, where Guilherme will tell us the story of how Aptabase grew from a side project to successful product!</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.45</strong> Episode Start</li>
+  <li><strong>01.09</strong> Guilherme’s Introduction</li>
+  <li><strong>02.23</strong> What is Aptabase?</li>
+  <li><strong>06.55</strong> Aptabase main fatures</li>
+  <li><strong>09.50</strong> Where Aptabase works?</li>
+  <li><strong>11.40</strong> Users opting out of analytics</li>
+  <li><strong>13.38</strong> Anonymous vs pseudo-anonymous</li>
+  <li><strong>18.29</strong> Educating users on anonymous data</li>
+  <li><strong>21.10</strong> Cloud vs Self-hosting</li>
+  <li><strong>23.43</strong> Where are the analytics stored?</li>
+  <li><strong>25.34</strong> Aptabase free tier</li>
+  <li><strong>27.57</strong> How many users are on Aptabase?</li>
+  <li><strong>29.47</strong> Aptabase success stories</li>
+  <li><strong>31.22</strong> Promoting a side project</li>
+  <li><strong>33.49</strong> Aptabase biggest challenge</li>
+  <li><strong>36.02</strong> The tech stack</li>
+  <li><strong>38.08</strong> Who’s maintaining Aptabase?</li>
+  <li><strong>41.17</strong> What’s next for Aptabase?</li>
+  <li><strong>43.56</strong> Further reading</li>
+  <li><strong>45.17</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/aptabase/aptabase">aptabase/aptabase on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://aptabase.com/">Aptabase Official Website</a></li>
+  <li><i class="fab fa-discord"></i> <a href="https://discord.gg/d9d97unCUk">Aptabase Discord server</a></li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/goenning">@goenning on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/goenning">@goenning on Twitter</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Anonymous analytics with Aptabase and Guilherme Oenning]]></summary></entry><entry><title type="html">#78 - Roborazzi with Takahiro Menju</title><link href="https://thebakery.dev/78/" rel="alternate" type="text/html" title="#78 - Roborazzi with Takahiro Menju" /><published>2024-03-19T00:00:00+00:00</published><updated>2024-03-19T00:00:00+00:00</updated><id>https://thebakery.dev/078-roborazzi</id><content type="html" xml:base="https://thebakery.dev/78/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1tApJ7aTZic3JVmL9xIReL?utm_source=generator&amp;t=0" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>We’re back in the Android development space with an episode about <strong>screenshot testing</strong>. I’m excited to have on stage <a href="https://twitter.com/_takahirom_"><strong>Takahiro Menju</strong></a>, Android GDE and author of <a href="https://github.com/takahirom/roborazzi"><strong>Roborazzi</strong></a>.</p>
+
+<p>With Roborazzi, you can easily run screenshot tests for your Android app, <strong>without</strong> having to run a device at all. That’s possible because Roborazzi relies on Robolectric, which allows you to run Android tests directly on the JVM.</p>
+
+<p>Join us in this episode as Takahiro walk us through the story of this library and how it can incredibly simplify screenshot testing for our Android apps.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.45</strong> Episode Start</li>
+  <li><strong>01.09</strong> Takahiro’s Introduction</li>
+  <li><strong>01.58</strong> What is Roborazzi?</li>
+  <li><strong>03.55</strong> Roborazzi’s features</li>
+  <li><strong>04.51</strong> What Robolectric brings?</li>
+  <li><strong>05.25</strong> Running on the JVM vs Emulator</li>
+  <li><strong>06.37</strong> Saving CI and developers time</li>
+  <li><strong>07.54</strong> Who’s using Roborazzi?</li>
+  <li><strong>09.09</strong> DroidKaigi Conference App</li>
+  <li><strong>10.23</strong> Comparing screenshots with Robolectric</li>
+  <li><strong>11.02</strong> Challenges in building Roborazzi</li>
+  <li><strong>13.43</strong> Who’s maintaining Roborazzi?</li>
+  <li><strong>14.29</strong> The Android testing strategy</li>
+  <li><strong>17.25</strong> What’s broken in Android testing?</li>
+  <li><strong>20.23</strong> Screenshot Testing in other ecosystems</li>
+  <li><strong>21.58</strong> The story of Roborazzi</li>
+  <li><strong>23.31</strong> How to contribute to Roborazzi?</li>
+  <li><strong>25.04</strong> What’s next for Roborazzi?</li>
+  <li><strong>26.40</strong> Further reading</li>
+  <li><strong>28.22</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/takahirom/roborazzi">takahirom/roborazzi on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://takahirom.github.io/roborazzi/">Roborazzi Official Website</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fas fa-link"></i> <a href="https://takahirom.github.io/roborazzi/how-to-use.html">How to use Roborazzi</a></li>
+      <li><i class="fas fa-link"></i> <a href="https://takahirom.github.io/roborazzi/faq.html">Roborazzi FAQ</a></li>
+      <li><i class="fab fa-medium"></i> <a href="https://medium.com/@takahirom/roborazzi-elevating-android-visual-testing-to-the-next-level-46ec56b24055">Roborazzi: Elevating Android Visual Testing to the Next Level</a></li>
+      <li><i class="fab fa-speaker-deck"></i> <a href="https://speakerdeck.com/takahirom/robolectric-native-graphics-and-roborazzi">Robolectric Native Graphics and Roborazzi</a></li>
+      <li><i class="fab fa-github"></i> <a href="https://github.com/DroidKaigi/conference-app-2023">DroidKaigi/conference-app-2023 on GitHub</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/takahirom">@takahirom on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/_takahirom_">@_takahirom_ on Twitter</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Screenshot Testing on Android without a device? Discover how with Roborazzi and Takahiro Menju]]></summary></entry><entry><title type="html">#77 - XWiki with Vincent Massol</title><link href="https://thebakery.dev/77/" rel="alternate" type="text/html" title="#77 - XWiki with Vincent Massol" /><published>2024-03-07T00:00:00+00:00</published><updated>2024-03-07T00:00:00+00:00</updated><id>https://thebakery.dev/077-xwiki</id><content type="html" xml:base="https://thebakery.dev/77/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3uCxQR8u9FXCNHVveHp1ys?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Today we talk about wikis! And I’m excited to have on stage <a href="https://twitter.com/vmassol"><strong>Vincent Massol</strong></a>, CTO of XWiki.</p>
+
+<p><a href="https://xwiki.org/"><strong>XWiki</strong></a> is an open-source tool to create wikis for your team, your project, or your company. Think of it as a competitor for Confluence.
+The key feature of XWiki is its extensibility, thanks to its various number of plugins that allow you to cover a variety of use cases, from documentation to knowledge base.</p>
+
+<p>Join us in this episode where Vincent will tell us the story of XWiki and how it grew to be used by companies like Amazon &amp; Airbus among others. Oh, and did you know they commit directly to main? Let’s find out more about that!</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.11</strong> Intro</li>
+  <li><strong>00.57</strong> Episode Start</li>
+  <li><strong>01.16</strong> Vincent’s Introduction</li>
+  <li><strong>03.20</strong> A Confluence alternative</li>
+  <li><strong>07.12</strong> XWiki features</li>
+  <li><strong>10.49</strong> Cloud vs Self-hosting</li>
+  <li><strong>12.43</strong> XWiki Business Model</li>
+  <li><strong>15.02</strong> Who’s using XWiki</li>
+  <li><strong>17.02</strong> Extending XWiki</li>
+  <li><strong>21.03</strong> Plugins</li>
+  <li><strong>22.44</strong> The Stack &amp; Scripting Languages</li>
+  <li><strong>25.33</strong> Converting to Kotlin?</li>
+  <li><strong>27.31</strong> The Story of XWiki</li>
+  <li><strong>29.59</strong> How Vincent got involved in XWiki?</li>
+  <li><strong>34.27</strong> When a Jira competitor?</li>
+  <li><strong>35.11</strong> The XWiki Community</li>
+  <li><strong>38.43</strong> Committing directly to main</li>
+  <li><strong>42.36</strong> Project Cristal</li>
+  <li><strong>47.06</strong> Further reading</li>
+  <li><strong>49.00</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/xwiki/xwiki-platform">xwiki/xwiki-platform on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://xwiki.org/">XWiki Official Website</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://dev.xwiki.org/">XWiki Developer Reference</a></li>
+  <li>Mentioned Resources:
+    <ul>
+      <li><i class="fab fa-youtube"></i> <a href="https://fosdem.org/2024/schedule/event/fosdem-2024-1830-20-years-of-open-source-building-xwiki-and-cryptpad/">20 Years of Open Source building XWiki and CryptPad - FOSDEM 2024</a></li>
+      <li><i class="fab fa-youtube"></i> <a href="https://peertube.xwiki.com/">XWiki’s Peertube</a></li>
+    </ul>
+  </li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/vmassol">@vmassol on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/vmassol">@vmassol on Twitter</a></li>
+  <li><i class="fas fa-link"></i> <a href="http://massol.net">Vincent’s Personal Website</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Building wikis with XWiki and Vincent Massol]]></summary></entry><entry><title type="html">#76 - fast-check with Nicolas DUBIEN</title><link href="https://thebakery.dev/76/" rel="alternate" type="text/html" title="#76 - fast-check with Nicolas DUBIEN" /><published>2024-02-21T00:00:00+00:00</published><updated>2024-02-21T00:00:00+00:00</updated><id>https://thebakery.dev/076-fast-check</id><content type="html" xml:base="https://thebakery.dev/76/"><![CDATA[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4FANwPXUfVdGUtSnKQx2yf?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p>Time for a new episode of The Developers’ Bakery! Today we’re back talking about testing, but we’ll have the opportunity to learn a new approach we haven’t talked about in this podcast yet: <strong>Property Based Testing</strong>.</p>
+
+<p>Joining us today is <a href="https://twitter.com/ndubien"><strong>Nicolas DUBIEN</strong></a>, creator of <a href="https://fast-check.dev/"><strong>fast-check</strong></a>, a library to write property-based tests for TypeScript and JavaScript.</p>
+
+<p>Nicolas will guide us through the world of property-based testing, explaining how fast-check can help us to write tests that are offering better coverage of our code.</p>
+
+<p>Enjoy the show 👨‍🍳</p>
+
+<h1 id="show-notes">Show Notes</h1>
+
+<ul>
+  <li><strong>00.00</strong> Intro</li>
+  <li><strong>00.45</strong> Episode Start</li>
+  <li><strong>01.09</strong> Nicolas’ Introduction</li>
+  <li><strong>02.17</strong> What is fast-check?</li>
+  <li><strong>03.41</strong> Property based testing</li>
+  <li><strong>05.36</strong> Generating inputs</li>
+  <li><strong>08.57</strong> Who can use fast-check?</li>
+  <li><strong>11.11</strong> Real world usages</li>
+  <li><strong>14.22</strong> fast-check to test fast-check</li>
+  <li><strong>18.25</strong> Readability of tests</li>
+  <li><strong>20.43</strong> Onboarding on property-based testing</li>
+  <li><strong>22.57</strong> The fast-check ecosystem</li>
+  <li><strong>25.51</strong> The history of fast-check</li>
+  <li><strong>29.58</strong> Who’s maintaining fast-check?</li>
+  <li><strong>32.12</strong> Growing fast-check</li>
+  <li><strong>33.01</strong> Good first issues</li>
+  <li><strong>35.18</strong> What’s next for fast-check?</li>
+  <li><strong>39.50</strong> Further reading</li>
+  <li><strong>41.38</strong> Where people can find you online?</li>
+</ul>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/dubzzz/fast-check">dubzzz/fast-check on GitHub</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://fast-check.dev/">fast-check Official Website</a></li>
+  <li><i class="fas fa-link"></i> <a href="https://fast-check.dev/blog/">fast-check Blog</a></li>
+  <li><i class="fab fa-github"></i> <a href="https://github.com/dubzzz">@dubzzz on GitHub</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/ndubien">@ndubien on Twitter</a></li>
+</ul>
+
+<h1 id="show-links">Show links</h1>
+
+<ul>
+  <li><i class="fas fa-link"></i> <a href="https://thebakery.dev">Podcast Website</a></li>
+  <li><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/4jV6Yoz7D38sZJlYMzJm3k?si=AL3ske_0R_CKlEScMhYhug">The Developers’ Bakery on Spotify</a></li>
+  <li><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/us/podcast/the-developers-bakery/id1542849034">The Developers’ Bakery on Apple Podcasts</a></li>
+  <li><i class="fab fa-google-play"></i> <a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViYWtlcnkuZGV2L3BvZGNhc3QueG1s">The Developers’ Bakery on Google Podcasts</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/thebakerydev">@thebakerydev on Twitter</a></li>
+  <li><i class="fab fa-twitter"></i> <a href="https://twitter.com/cortinico">@cortinico on Twitter</a></li>
+</ul>]]></content><author><name>The Developers&apos; Bakery</name><email>info@thebakery.dev</email></author><summary type="html"><![CDATA[Property based testing with fast-check and Nicolas DUBIEN]]></summary></entry></feed>
